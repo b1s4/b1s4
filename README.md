@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Capital Music<br>Lo rico que te comía<br>Ta con shh, pero sabe' que ere' mía<br>Me monté en el remix porque todavía, uah (la doble A)<br><br>Pensando como los loco'<br>Que si no e'tu cuerpo, más ninguno toco (toco)<br>Lo de nosotro' fue fuera de lo normal, tú dime si me equivoco (-voco)<br>Y yo quisiera volver, pero es que hice tan poco (poco)<br>No me conviene tampoco<br>Prefiero morir con el corazón roto (this is the other remix), brr</p>
 
 ###
 
@@ -43,6 +43,18 @@
 <div align="center">
   <a href="https://open.spotify.com/user/gks5li0jurtiqkj0o292e3bcq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gks5li0jurtiqkj0o292e3bcq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/B1s4_v2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
