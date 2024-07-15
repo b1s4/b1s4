@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">Capital Music<br>Lo rico que te comía<br>Ta con shh, pero sabe' que ere' mía<br>Me monté en el remix porque todavía, uah (la doble A)<br><br>Pensando como los loco'<br>Que si no e'tu cuerpo, más ninguno toco (toco)<br>Lo de nosotro' fue fuera de lo normal, tú dime si me equivoco (-voco)<br>Y yo quisiera volver, pero es que hice tan poco (poco)<br>No me conviene tampoco<br>Prefiero morir con el corazón roto (this is the other remix), brr</p>
-
 ###
 
 <h2 align="left">I code with</h2>
