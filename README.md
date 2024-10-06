@@ -28,17 +28,6 @@
 
 ###
 
-<h2 align="left">I'm listening</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gks5li0jurtiqkj0o292e3bcq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gks5li0jurtiqkj0o292e3bcq&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">Social Media</h2>
 
