@@ -1,0 +1,57 @@
+/* General */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #181818; /* Fondo oscuro */
+  color: white;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Contenedor */
+.container {
+  text-align: center;
+}
+
+/* Imagen superior */
+.logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+/* Títulos con glow */
+h2 {
+  margin: 20px 0 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: lowercase;
+  text-shadow: 0 0 10px #ffffffaa;
+}
+
+/* Lista de links */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+/* Enlaces con texto amarillo */
+a {
+  color: #FFD700; /* amarillo */
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+/* Hover efecto */
+a:hover {
+  color: white;
+  text-shadow: 0 0 8px white;
+}
