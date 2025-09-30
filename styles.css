@@ -48,26 +48,12 @@ a {
   text-decoration: none;
   font-weight: bold;
   transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 a:hover {
   color: white;
   text-shadow: 0 0 8px white;
-}
-
-/* === Botón minimalista === */
-button {
-  background: none;
-  color: #FFD700;
-  padding: 5px 10px;
-  font-family: monospace;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-button:hover {
-  background: #FFD700;
-  color: #181818;
-  text-shadow: none;
 }
 
 /* === Notificación flotante === */
@@ -85,9 +71,9 @@ button:hover {
   box-shadow: 0 0 10px #000;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease, transform 0.5s ease;
 }
 .toast.show {
   opacity: 1;
+  transform: translateX(-50%) translateY(-5px); /* sube un poquito al aparecer */
 }
-
