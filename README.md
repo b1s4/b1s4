@@ -1,1 +1,1 @@
-<a href="https://b1s4.dev">bio</a>
+<a href="https://fakecrime.bio/b1s4">bio</a>
